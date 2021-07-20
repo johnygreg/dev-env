@@ -1,0 +1,13 @@
+version: "3.8"
+
+# services:
+#   dev:
+#     container_name: dev
+#     build:
+#       context: .
+#     restart: always
+#     hostname: 'dev'
+#     ports:
+#       - '8080:8080'
+#     volumes:
+#       - '/home/dev:/home/dev/'
